@@ -15,6 +15,15 @@ The project was completed as part of my Machine Learning internship at Internshi
 - Detect and treat outliers
 - Prepare the dataset for further analysis or machine learning
 
+## Dataset
+
+- **Source:** Kaggle — Iris Dataset
+- **Format:** CSV
+- **Features:** Sepal Length, Sepal Width, Petal Length, Petal Width
+- **Target:** Iris Species
+
+The dataset contains measurements of iris flowers and was used for data cleaning, preprocessing, and exploratory data analysis.
+
 ## Tools & Technologies
 
 - **Programming Language:** Python
